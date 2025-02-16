@@ -14,6 +14,18 @@ print("División ", division)
 
 redondeo = int(division)
 print("Redondeo division: ", redondeo)
+minuendo = float(input("Minuendo:"))
+sustraendo = float(input("Sustraendo:"))
+print ("Resultado:", minuendo - sustraendo)
+
+dividendo = float(input("Dividendo:"))
+divisor = float(input("Divisor:"))
+print ("Resultado:", dividendo/ divisor)
+
+multiplicando = float(input("Multiplicando"))
+multiplicador = float (input("Multiplicador"))
+print ("Resultado:", round ( multiplicando * multiplicador,1)
+      
 
 
 
