@@ -9,3 +9,10 @@ for i in range(inicio, fin + 1):
     if (i % 2 == 0):
         print(i)
 print("Fin de programa")
+#Escribir un programa que pida al usuario una palabra y la muestre por pantalla 10 veces.
+print ("escribe una palabra")
+palabra= input()
+contador =1
+while contador <= 10:
+    print("fin ")
+    contador =contador + 1
