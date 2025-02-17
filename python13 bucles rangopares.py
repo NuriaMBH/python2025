@@ -12,7 +12,8 @@ print("Fin de programa")
 #Escribir un programa que pida al usuario una palabra y la muestre por pantalla 10 veces.
 print ("escribe una palabra")
 palabra= input()
-contador =1
+contador = 1
 while contador <= 10:
-    print("fin ")
-    contador =contador + 1
+        print(palabra)
+        contador = contador + 1
+print ("Fin")
